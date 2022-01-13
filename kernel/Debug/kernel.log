@@ -1,0 +1,513 @@
+[INFO] 12:13:25:429 KERNEL/(12287:12287): 
+
+---------------------------------------------------
+
+
+[INFO] 12:13:25:430 KERNEL/(12287:12287): 
+
+---------------------------------------------------
+
+
+[INFO] 12:13:25:431 KERNEL/(12287:12287): Cree un dispositivo
+
+[INFO] 12:13:25:431 KERNEL/(12287:12287): Nombre dispositivo PILETA
+
+[INFO] 12:13:25:431 KERNEL/(12287:12287): Rafaga dispositivo 25
+
+[INFO] 12:13:25:432 KERNEL/(12287:12287): Cree un dispositivo
+
+[INFO] 12:13:25:432 KERNEL/(12287:12287): Nombre dispositivo HUMEDAL
+
+[INFO] 12:13:25:432 KERNEL/(12287:12287): Rafaga dispositivo 35
+
+[INFO] 12:13:25:432 KERNEL/(12287:12287): Creé un procesador
+
+[INFO] 12:13:25:433 KERNEL/(12287:12287): Creé un procesador
+
+[INFO] 12:13:25:433 KERNEL/(12287:12287): Creé un procesador
+
+[INFO] 12:13:25:434 KERNEL/(12287:12287): Creé un procesador
+
+[INFO] 12:13:25:434 KERNEL/(12287:12287): Ya cree el planificador de largo plazo
+
+[INFO] 12:13:25:434 KERNEL/(12287:12287): Ya cree el planificador de corto plazo utilizando el algoritmo HRRN
+
+[INFO] 12:13:25:434 KERNEL/(12287:12287): Ya cree el algoritmo para correr deadlock
+
+[INFO] 12:18:10:349 KERNEL/(12557:12557): 
+
+---------------------------------------------------
+
+
+[INFO] 12:18:10:350 KERNEL/(12557:12557): 
+
+---------------------------------------------------
+
+
+[INFO] 12:18:10:351 KERNEL/(12557:12557): Cree un dispositivo
+
+[INFO] 12:18:10:351 KERNEL/(12557:12557): Nombre dispositivo PILETA
+
+[INFO] 12:18:10:351 KERNEL/(12557:12557): Rafaga dispositivo 25
+
+[INFO] 12:18:10:351 KERNEL/(12557:12557): Cree un dispositivo
+
+[INFO] 12:18:10:351 KERNEL/(12557:12557): Nombre dispositivo HUMEDAL
+
+[INFO] 12:18:10:352 KERNEL/(12557:12557): Rafaga dispositivo 35
+
+[INFO] 12:18:10:352 KERNEL/(12557:12557): Creé un procesador
+
+[INFO] 12:18:10:352 KERNEL/(12557:12557): Creé un procesador
+
+[INFO] 12:18:10:352 KERNEL/(12557:12557): Creé un procesador
+
+[INFO] 12:18:10:352 KERNEL/(12557:12557): Creé un procesador
+
+[INFO] 12:18:10:353 KERNEL/(12557:12557): Ya cree el planificador de largo plazo
+
+[INFO] 12:18:10:353 KERNEL/(12557:12557): Ya cree el planificador de corto plazo utilizando el algoritmo HRRN
+
+[INFO] 12:18:10:353 KERNEL/(12557:12557): Ya cree el algoritmo para correr deadlock
+
+[INFO] 12:20:58:393 KERNEL/(12736:12736): 
+
+---------------------------------------------------
+
+
+[INFO] 12:20:58:393 KERNEL/(12736:12736): 
+
+---------------------------------------------------
+
+
+[INFO] 12:20:58:394 KERNEL/(12736:12736): Cree un dispositivo
+
+[INFO] 12:20:58:394 KERNEL/(12736:12736): Nombre dispositivo PILETA
+
+[INFO] 12:20:58:394 KERNEL/(12736:12736): Rafaga dispositivo 25
+
+[INFO] 12:20:58:395 KERNEL/(12736:12736): Cree un dispositivo
+
+[INFO] 12:20:58:395 KERNEL/(12736:12736): Nombre dispositivo HUMEDAL
+
+[INFO] 12:20:58:395 KERNEL/(12736:12736): Rafaga dispositivo 35
+
+[INFO] 12:20:58:395 KERNEL/(12736:12736): Creé un procesador
+
+[INFO] 12:20:58:395 KERNEL/(12736:12736): Creé un procesador
+
+[INFO] 12:20:58:396 KERNEL/(12736:12736): Creé un procesador
+
+[INFO] 12:20:58:396 KERNEL/(12736:12736): Creé un procesador
+
+[INFO] 12:20:58:396 KERNEL/(12736:12736): Ya cree el planificador de largo plazo
+
+[INFO] 12:20:58:396 KERNEL/(12736:12736): Ya cree el planificador de corto plazo utilizando el algoritmo HRRN
+
+[INFO] 12:20:58:397 KERNEL/(12736:12736): Ya cree el algoritmo para correr deadlock
+
+[INFO] 12:21:22:162 KERNEL/(12791:12791): 
+
+---------------------------------------------------
+
+
+[INFO] 12:21:22:162 KERNEL/(12791:12791): 
+
+---------------------------------------------------
+
+
+[INFO] 12:21:22:163 KERNEL/(12791:12791): Cree un dispositivo
+
+[INFO] 12:21:22:163 KERNEL/(12791:12791): Nombre dispositivo PILETA
+
+[INFO] 12:21:22:163 KERNEL/(12791:12791): Rafaga dispositivo 25
+
+[INFO] 12:21:22:164 KERNEL/(12791:12791): Cree un dispositivo
+
+[INFO] 12:21:22:164 KERNEL/(12791:12791): Nombre dispositivo HUMEDAL
+
+[INFO] 12:21:22:164 KERNEL/(12791:12791): Rafaga dispositivo 35
+
+[INFO] 12:21:22:165 KERNEL/(12791:12791): Creé un procesador
+
+[INFO] 12:21:22:165 KERNEL/(12791:12791): Creé un procesador
+
+[INFO] 12:21:22:165 KERNEL/(12791:12791): Creé un procesador
+
+[INFO] 12:21:22:165 KERNEL/(12791:12791): Creé un procesador
+
+[INFO] 12:21:22:165 KERNEL/(12791:12791): Ya cree el planificador de largo plazo
+
+[INFO] 12:21:22:166 KERNEL/(12791:12791): Ya cree el planificador de corto plazo utilizando el algoritmo HRRN
+
+[INFO] 12:21:22:166 KERNEL/(12791:12791): Ya cree el algoritmo para correr deadlock
+
+[INFO] 12:26:01:343 KERNEL/(13102:13102): 
+
+---------------------------------------------------
+
+
+[INFO] 12:26:01:344 KERNEL/(13102:13102): 
+
+---------------------------------------------------
+
+
+[INFO] 12:26:01:344 KERNEL/(13102:13102): Cree un dispositivo
+
+[INFO] 12:26:01:344 KERNEL/(13102:13102): Nombre dispositivo PILETA
+
+[INFO] 12:26:01:345 KERNEL/(13102:13102): Rafaga dispositivo 25
+
+[INFO] 12:26:01:345 KERNEL/(13102:13102): Cree un dispositivo
+
+[INFO] 12:26:01:345 KERNEL/(13102:13102): Nombre dispositivo HUMEDAL
+
+[INFO] 12:26:01:346 KERNEL/(13102:13102): Rafaga dispositivo 35
+
+[INFO] 12:26:01:346 KERNEL/(13102:13102): Creé un procesador
+
+[INFO] 12:26:01:351 KERNEL/(13102:13102): Creé un procesador
+
+[INFO] 12:26:01:351 KERNEL/(13102:13102): Creé un procesador
+
+[INFO] 12:26:01:352 KERNEL/(13102:13102): Creé un procesador
+
+[INFO] 12:26:01:352 KERNEL/(13102:13102): Ya cree el planificador de largo plazo
+
+[INFO] 12:26:01:352 KERNEL/(13102:13102): Ya cree el planificador de corto plazo utilizando el algoritmo HRRN
+
+[INFO] 12:26:01:353 KERNEL/(13102:13102): Ya cree el algoritmo para correr deadlock
+
+[INFO] 13:06:55:557 KERNEL/(15465:15465): 
+
+---------------------------------------------------
+
+
+[INFO] 13:06:55:587 KERNEL/(15465:15465): 
+
+---------------------------------------------------
+
+
+[INFO] 13:06:55:588 KERNEL/(15465:15465): Cree un dispositivo
+
+[INFO] 13:06:55:588 KERNEL/(15465:15465): Nombre dispositivo PILETA
+
+[INFO] 13:06:55:589 KERNEL/(15465:15465): Rafaga dispositivo 25
+
+[INFO] 13:06:55:589 KERNEL/(15465:15465): Cree un dispositivo
+
+[INFO] 13:06:55:589 KERNEL/(15465:15465): Nombre dispositivo HUMEDAL
+
+[INFO] 13:06:55:590 KERNEL/(15465:15465): Rafaga dispositivo 35
+
+[INFO] 13:06:55:590 KERNEL/(15465:15465): Creé un procesador
+
+[INFO] 13:06:55:590 KERNEL/(15465:15465): Creé un procesador
+
+[INFO] 13:06:55:591 KERNEL/(15465:15465): Creé un procesador
+
+[INFO] 13:06:55:591 KERNEL/(15465:15465): Creé un procesador
+
+[INFO] 13:06:55:591 KERNEL/(15465:15465): Ya cree el planificador de largo plazo
+
+[INFO] 13:06:55:592 KERNEL/(15465:15465): Ya cree el planificador de corto plazo utilizando el algoritmo HRRN
+
+[INFO] 13:06:55:592 KERNEL/(15465:15465): Ya cree el algoritmo para correr deadlock
+
+[INFO] 13:11:58:986 KERNEL/(15833:15833): 
+
+---------------------------------------------------
+
+
+[INFO] 13:11:58:987 KERNEL/(15833:15833): 
+
+---------------------------------------------------
+
+
+[INFO] 13:11:58:987 KERNEL/(15833:15833): Cree un dispositivo
+
+[INFO] 13:11:58:987 KERNEL/(15833:15833): Nombre dispositivo PILETA
+
+[INFO] 13:11:58:988 KERNEL/(15833:15833): Rafaga dispositivo 25
+
+[INFO] 13:11:58:988 KERNEL/(15833:15833): Cree un dispositivo
+
+[INFO] 13:11:58:988 KERNEL/(15833:15833): Nombre dispositivo HUMEDAL
+
+[INFO] 13:11:58:988 KERNEL/(15833:15833): Rafaga dispositivo 35
+
+[INFO] 13:11:58:989 KERNEL/(15833:15833): Creé un procesador
+
+[INFO] 13:11:58:989 KERNEL/(15833:15833): Creé un procesador
+
+[INFO] 13:11:58:989 KERNEL/(15833:15833): Creé un procesador
+
+[INFO] 13:11:58:989 KERNEL/(15833:15833): Creé un procesador
+
+[INFO] 13:11:58:989 KERNEL/(15833:15833): Ya cree el planificador de largo plazo
+
+[INFO] 13:11:58:990 KERNEL/(15833:15833): Ya cree el planificador de corto plazo utilizando el algoritmo HRRN
+
+[INFO] 13:11:58:990 KERNEL/(15833:15833): Ya cree el algoritmo para correr deadlock
+
+[INFO] 13:12:30:413 KERNEL/(15890:15890): 
+
+---------------------------------------------------
+
+
+[INFO] 13:12:30:413 KERNEL/(15890:15890): 
+
+---------------------------------------------------
+
+
+[INFO] 13:12:30:414 KERNEL/(15890:15890): Cree un dispositivo
+
+[INFO] 13:12:30:414 KERNEL/(15890:15890): Nombre dispositivo PILETA
+
+[INFO] 13:12:30:415 KERNEL/(15890:15890): Rafaga dispositivo 25
+
+[INFO] 13:12:30:415 KERNEL/(15890:15890): Cree un dispositivo
+
+[INFO] 13:12:30:415 KERNEL/(15890:15890): Nombre dispositivo HUMEDAL
+
+[INFO] 13:12:30:415 KERNEL/(15890:15890): Rafaga dispositivo 35
+
+[INFO] 13:12:30:416 KERNEL/(15890:15890): Creé un procesador
+
+[INFO] 13:12:30:416 KERNEL/(15890:15890): Creé un procesador
+
+[INFO] 13:12:30:420 KERNEL/(15890:15890): Creé un procesador
+
+[INFO] 13:12:30:421 KERNEL/(15890:15890): Creé un procesador
+
+[INFO] 13:12:30:422 KERNEL/(15890:15890): Ya cree el planificador de largo plazo
+
+[INFO] 13:12:30:422 KERNEL/(15890:15890): Ya cree el planificador de corto plazo utilizando el algoritmo HRRN
+
+[INFO] 13:12:30:423 KERNEL/(15890:15890): Ya cree el algoritmo para correr deadlock
+
+[INFO] 13:20:17:347 KERNEL/(16481:16481): 
+
+---------------------------------------------------
+
+
+[INFO] 13:20:17:355 KERNEL/(16481:16481): 
+
+---------------------------------------------------
+
+
+[INFO] 13:20:17:355 KERNEL/(16481:16481): Cree un dispositivo
+
+[INFO] 13:20:17:355 KERNEL/(16481:16481): Nombre dispositivo PILETA
+
+[INFO] 13:20:17:356 KERNEL/(16481:16481): Rafaga dispositivo 25
+
+[INFO] 13:20:17:356 KERNEL/(16481:16481): Cree un dispositivo
+
+[INFO] 13:20:17:356 KERNEL/(16481:16481): Nombre dispositivo HUMEDAL
+
+[INFO] 13:20:17:357 KERNEL/(16481:16481): Rafaga dispositivo 35
+
+[INFO] 13:20:17:357 KERNEL/(16481:16481): Creé un procesador
+
+[INFO] 13:20:17:357 KERNEL/(16481:16481): Creé un procesador
+
+[INFO] 13:20:17:357 KERNEL/(16481:16481): Creé un procesador
+
+[INFO] 13:20:17:358 KERNEL/(16481:16481): Creé un procesador
+
+[INFO] 13:20:17:359 KERNEL/(16481:16481): Ya cree el planificador de largo plazo
+
+[INFO] 13:20:17:360 KERNEL/(16481:16481): Ya cree el planificador de corto plazo utilizando el algoritmo HRRN
+
+[INFO] 13:20:17:361 KERNEL/(16481:16481): Ya cree el algoritmo para correr deadlock
+
+[INFO] 13:28:53:931 KERNEL/(17001:17001): 
+
+===================================================
+
+
+[INFO] 13:28:53:940 KERNEL/(17001:17001): Dispositivo 'PILETA' creado con rafaga 25.
+
+[INFO] 13:28:53:941 KERNEL/(17001:17001): Dispositivo 'HUMEDAL' creado con rafaga 35.
+
+[INFO] 13:28:53:941 KERNEL/(17001:17001): Procesador 0 creado.
+
+[INFO] 13:28:53:941 KERNEL/(17001:17001): Procesador 1 creado.
+
+[INFO] 13:28:53:941 KERNEL/(17001:17001): Procesador 2 creado.
+
+[INFO] 13:28:53:941 KERNEL/(17001:17001): Procesador 3 creado.
+
+[INFO] 13:28:53:942 KERNEL/(17001:17001): Planificador de largo plazo creado correctamente.
+
+[INFO] 13:28:53:942 KERNEL/(17001:17001): Planificador de corto plazo creado correctamente utilizando el algoritmo 'HRRN'.
+
+[INFO] 13:28:53:942 KERNEL/(17001:17001): Detector de deadlock iniciado.
+
+[INFO] 13:30:14:006 KERNEL/(17161:17161): 
+
+===================================================
+
+
+[INFO] 13:30:14:007 KERNEL/(17161:17161): Dispositivo 'PILETA' creado con rafaga 25.
+
+[INFO] 13:30:14:007 KERNEL/(17161:17161): Dispositivo 'HUMEDAL' creado con rafaga 35.
+
+[INFO] 13:30:14:007 KERNEL/(17161:17161): Procesador 0 creado.
+
+[INFO] 13:30:14:007 KERNEL/(17161:17161): Procesador 1 creado.
+
+[INFO] 13:30:14:008 KERNEL/(17161:17161): Procesador 2 creado.
+
+[INFO] 13:30:14:008 KERNEL/(17161:17161): Procesador 3 creado.
+
+[INFO] 13:30:14:008 KERNEL/(17161:17161): Planificador de largo plazo creado correctamente.
+
+[INFO] 13:30:14:008 KERNEL/(17161:17161): Planificador de corto plazo creado correctamente utilizando el algoritmo 'HRRN'.
+
+[INFO] 13:30:14:008 KERNEL/(17161:17161): Detector de deadlock iniciado.
+
+[INFO] 13:39:22:106 KERNEL/(17708:17708): 
+
+===================================================
+
+
+[INFO] 13:39:22:113 KERNEL/(17708:17708): Dispositivo 'PILETA' creado con rafaga 25.
+
+[INFO] 13:39:22:113 KERNEL/(17708:17708): Dispositivo 'HUMEDAL' creado con rafaga 35.
+
+[INFO] 13:39:22:113 KERNEL/(17708:17708): Procesador 0 creado.
+
+[INFO] 13:39:22:114 KERNEL/(17708:17708): Procesador 1 creado.
+
+[INFO] 13:39:22:114 KERNEL/(17708:17708): Procesador 2 creado.
+
+[INFO] 13:39:22:114 KERNEL/(17708:17708): Procesador 3 creado.
+
+[INFO] 13:39:22:114 KERNEL/(17708:17708): Planificador de largo plazo creado correctamente.
+
+[INFO] 13:39:22:115 KERNEL/(17708:17708): Planificador de corto plazo creado correctamente utilizando el algoritmo 'HRRN'.
+
+[INFO] 13:39:22:115 KERNEL/(17708:17708): Detector de deadlock iniciado.
+
+[INFO] 14:53:04:925 KERNEL/(21659:21659): 
+
+===================================================
+
+
+[INFO] 14:53:04:938 KERNEL/(21659:21659): Dispositivo 'PILETA' creado con rafaga 25.
+
+[INFO] 14:53:04:938 KERNEL/(21659:21659): Dispositivo 'HUMEDAL' creado con rafaga 35.
+
+[INFO] 14:53:04:939 KERNEL/(21659:21659): Nucleo CPU 0 creado.
+
+[INFO] 14:53:04:939 KERNEL/(21659:21659): Nucleo CPU 1 creado.
+
+[INFO] 14:53:04:939 KERNEL/(21659:21659): Nucleo CPU 2 creado.
+
+[INFO] 14:53:04:940 KERNEL/(21659:21659): Nucleo CPU 3 creado.
+
+[INFO] 14:53:04:940 KERNEL/(21659:21659): Planificador de largo plazo creado correctamente.
+
+[INFO] 14:53:04:941 KERNEL/(21659:21659): Planificador de corto plazo creado correctamente utilizando el algoritmo 'HRRN'.
+
+[INFO] 14:53:04:941 KERNEL/(21659:21659): Detector de deadlock iniciado.
+
+[INFO] 14:59:02:246 KERNEL/(22015:22015): 
+
+===================================================
+
+
+[INFO] 14:59:02:260 KERNEL/(22015:22015): Dispositivo 'PILETA' creado con rafaga 25.
+
+[INFO] 14:59:02:260 KERNEL/(22015:22015): Dispositivo 'HUMEDAL' creado con rafaga 35.
+
+[INFO] 14:59:02:261 KERNEL/(22015:22015): Nucleo CPU 0 creado.
+
+[INFO] 14:59:02:262 KERNEL/(22015:22015): Nucleo CPU 1 creado.
+
+[INFO] 14:59:02:262 KERNEL/(22015:22015): Nucleo CPU 2 creado.
+
+[INFO] 14:59:02:262 KERNEL/(22015:22015): Nucleo CPU 3 creado.
+
+[INFO] 14:59:02:262 KERNEL/(22015:22015): Planificador de largo plazo creado correctamente.
+
+[INFO] 14:59:02:263 KERNEL/(22015:22015): Planificador de corto plazo creado correctamente utilizando el algoritmo 'HRRN'.
+
+[INFO] 14:59:02:263 KERNEL/(22015:22015): Detector de deadlock iniciado.
+
+[INFO] 15:16:20:212 KERNEL/(22930:22930): 
+
+===================================================
+
+
+[INFO] 15:16:20:228 KERNEL/(22930:22930): Dispositivo 'PILETA' creado con rafaga 25.
+
+[INFO] 15:16:20:228 KERNEL/(22930:22930): Dispositivo 'HUMEDAL' creado con rafaga 35.
+
+[INFO] 15:16:20:228 KERNEL/(22930:22930): Nucleo CPU 0 creado.
+
+[INFO] 15:16:20:228 KERNEL/(22930:22930): Nucleo CPU 1 creado.
+
+[INFO] 15:16:20:228 KERNEL/(22930:22930): Nucleo CPU 2 creado.
+
+[INFO] 15:16:20:228 KERNEL/(22930:22930): Nucleo CPU 3 creado.
+
+[INFO] 15:16:20:228 KERNEL/(22930:22930): Planificador de largo plazo creado correctamente.
+
+[INFO] 15:16:20:229 KERNEL/(22930:22930): Planificador de corto plazo creado correctamente utilizando el algoritmo 'HRRN'.
+
+[INFO] 15:16:20:229 KERNEL/(22930:22930): Detector de deadlock iniciado.
+
+[INFO] 15:17:20:351 KERNEL/(23031:23031): 
+
+===================================================
+
+
+[INFO] 15:17:20:352 KERNEL/(23031:23031): Dispositivo 'laguna' creado con rafaga 25.
+
+[INFO] 15:17:20:352 KERNEL/(23031:23031): Dispositivo 'hierbitas' creado con rafaga 35.
+
+[INFO] 15:17:20:352 KERNEL/(23031:23031): Nucleo CPU 0 creado.
+
+[INFO] 15:17:20:352 KERNEL/(23031:23031): Nucleo CPU 1 creado.
+
+[INFO] 15:17:20:353 KERNEL/(23031:23031): Nucleo CPU 2 creado.
+
+[INFO] 15:17:20:353 KERNEL/(23031:23031): Nucleo CPU 3 creado.
+
+[INFO] 15:17:20:353 KERNEL/(23031:23031): Planificador de largo plazo creado correctamente.
+
+[INFO] 15:17:20:353 KERNEL/(23031:23031): Planificador de corto plazo creado correctamente utilizando el algoritmo 'HRRN'.
+
+[INFO] 15:17:20:353 KERNEL/(23031:23031): Detector de deadlock iniciado.
+
+[INFO] 15:18:08:120 KERNEL/(23122:23122): 
+
+===================================================
+
+
+[INFO] 15:18:08:121 KERNEL/(23122:23122): Dispositivo 'laguna' creado con rafaga 2000.
+
+[INFO] 15:18:08:121 KERNEL/(23122:23122): Dispositivo 'hierbitas' creado con rafaga 3000.
+
+[INFO] 15:18:08:121 KERNEL/(23122:23122): Nucleo CPU 0 creado.
+
+[INFO] 15:18:08:122 KERNEL/(23122:23122): Nucleo CPU 1 creado.
+
+[INFO] 15:18:08:122 KERNEL/(23122:23122): Nucleo CPU 2 creado.
+
+[INFO] 15:18:08:122 KERNEL/(23122:23122): Nucleo CPU 3 creado.
+
+[INFO] 15:18:08:122 KERNEL/(23122:23122): Planificador de largo plazo creado correctamente.
+
+[INFO] 15:18:08:124 KERNEL/(23122:23122): Planificador de corto plazo creado correctamente utilizando el algoritmo 'HRRN'.
+
+[INFO] 15:18:08:125 KERNEL/(23122:23122): Detector de deadlock iniciado.
+
+[INFO] 09:37:18:353 KERNEL/(13029:13029): 
+
+===================================================
+
+
